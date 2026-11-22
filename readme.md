@@ -1,4 +1,4 @@
-# 🎓 CampusConnect
+# AllRounder
 
 CampusConnect is a **full-stack mobile application** designed to solve everyday problems on a college campus by combining a **Lost & Found system** with a **Campus Event Board**.
 
@@ -404,11 +404,6 @@ Possible future features include:
 
 ---
 
-# 👨‍💻 Author
-
-**Chirag Prajapat**
-
-GitHub: https://github.com/Chiragprajapat003
 
 ---
 
