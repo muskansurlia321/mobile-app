@@ -1,0 +1,45 @@
+
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Native
+android/
+ios/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Metro
+.metro-health-check*
+
+# Temporary files
+*.log
+*.tmp
+
+# Signing keys
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
